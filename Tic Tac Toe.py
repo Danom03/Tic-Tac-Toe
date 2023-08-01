@@ -1,3 +1,4 @@
+#commad added
 def board(l):               #this function prints board
     count1 = 0
     for i in l:
